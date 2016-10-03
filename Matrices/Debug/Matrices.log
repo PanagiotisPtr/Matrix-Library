@@ -1,0 +1,9 @@
+﻿  matrix.cpp
+c:\users\panos\documents\visual studio 2015\projects\matrices\matrices\matrix.cpp(273): warning C4018: '<': signed/unsigned mismatch
+c:\users\panos\documents\visual studio 2015\projects\matrices\matrices\matrix.cpp(274): warning C4018: '<': signed/unsigned mismatch
+c:\users\panos\documents\visual studio 2015\projects\matrices\matrices\matrix.cpp(315): warning C4018: '<': signed/unsigned mismatch
+c:\users\panos\documents\visual studio 2015\projects\matrices\matrices\matrix.cpp(324): warning C4018: '<': signed/unsigned mismatch
+  main.cpp
+  Generating Code...
+  Matrices.vcxproj -> C:\Users\panos\documents\visual studio 2015\Projects\Matrices\Debug\Matrices.exe
+  Matrices.vcxproj -> C:\Users\panos\documents\visual studio 2015\Projects\Matrices\Debug\Matrices.pdb (Partial PDB)
